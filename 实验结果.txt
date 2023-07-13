@@ -1,0 +1,65 @@
+位置：
+
+后：
+1/2
+Iter:    20,Train Loss 0.75,Train Acc  0.45,Val Loss 0.83,Val Acc:48.44%,Time:0:05:40 *
+1/4
+Iter:     0,Train Loss 0.98,Train Acc  0.12,Val Loss 0.99,Val Acc:15.62%,Time:0:00:19 *
+Iter:     5,Train Loss 0.86,Train Acc  0.31,Val Loss 0.91,Val Acc:31.25%,Time:0:01:36 *
+Iter:    10,Train Loss 0.89,Train Acc   0.3,Val Loss 0.89,Val Acc:32.81%,Time:0:02:57 *
+Iter:    15,Train Loss 0.85,Train Acc  0.39,Val Loss 0.89,Val Acc:28.12%,Time:0:04:25 
+Iter:    20,Train Loss 0.84,Train Acc  0.42,Val Loss 0.88,Val Acc:29.69%,Time:0:05:43 
+1/8
+Iter:     0,Train Loss  1.0,Train Acc  0.25,Val Loss 0.97,Val Acc:28.12%,Time:0:00:18 *
+Iter:     5,Train Loss 0.88,Train Acc  0.36,Val Loss 0.91,Val Acc:26.56%,Time:0:01:32 
+Iter:    10,Train Loss 0.75,Train Acc  0.45,Val Loss 0.86,Val Acc:37.50%,Time:0:02:52 *
+Iter:    15,Train Loss 0.64,Train Acc  0.56,Val Loss 0.88,Val Acc:37.50%,Time:0:04:19 
+Iter:    20,Train Loss 0.59,Train Acc  0.56,Val Loss 0.86,Val Acc:34.38%,Time:0:05:43 
+1/16
+Iter:     0,Train Loss 0.93,Train Acc  0.27,Val Loss 0.96,Val Acc:28.12%,Time:0:00:17 *
+Iter:     5,Train Loss 0.87,Train Acc  0.36,Val Loss 0.91,Val Acc:28.12%,Time:0:01:30 
+Iter:    10,Train Loss 0.85,Train Acc  0.25,Val Loss 0.89,Val Acc:32.81%,Time:0:02:47 *
+Iter:    15,Train Loss 0.79,Train Acc  0.52,Val Loss 0.87,Val Acc:37.50%,Time:0:04:03 *
+Iter:    20,Train Loss 0.74,Train Acc  0.66,Val Loss 0.86,Val Acc:40.62%,Time:0:05:24 *
+。。。。。。
+前：
+1/16
+Iter:     0,Train Loss 0.92,Train Acc  0.23,Val Loss 0.92,Val Acc:25.00%,Time:0:00:21 *
+Iter:     5,Train Loss 0.88,Train Acc  0.31,Val Loss 0.91,Val Acc:23.44%,Time:0:01:42 
+Iter:    10,Train Loss 0.78,Train Acc  0.55,Val Loss 0.78,Val Acc:53.12%,Time:0:03:04 *
+Iter:    15,Train Loss 0.62,Train Acc   0.7,Val Loss 0.73,Val Acc:54.69%,Time:0:04:34 *
+Iter:    20,Train Loss 0.58,Train Acc  0.67,Val Loss 0.73,Val Acc:56.25%,Time:0:06:09 *
+1/8
+Iter:     0,Train Loss 0.96,Train Acc  0.25,Val Loss 0.91,Val Acc:31.25%,Time:0:00:18 *
+Iter:     5,Train Loss 0.84,Train Acc  0.39,Val Loss 0.86,Val Acc:34.38%,Time:0:01:32 *
+Iter:    10,Train Loss 0.79,Train Acc  0.52,Val Loss 0.81,Val Acc:42.19%,Time:0:02:51 *
+Iter:    15,Train Loss 0.73,Train Acc  0.56,Val Loss 0.79,Val Acc:40.62%,Time:0:04:20 
+Iter:    20,Train Loss 0.69,Train Acc  0.61,Val Loss 0.75,Val Acc:46.88%,Time:0:05:48 *
+1/4
+Iter:     0,Train Loss 0.94,Train Acc  0.25,Val Loss 0.97,Val Acc:26.56%,Time:0:00:18 *
+Iter:     5,Train Loss 0.91,Train Acc  0.23,Val Loss  0.9,Val Acc:23.44%,Time:0:01:36 
+Iter:    10,Train Loss 0.85,Train Acc  0.42,Val Loss 0.85,Val Acc:37.50%,Time:0:03:02 *
+Iter:    15,Train Loss 0.82,Train Acc  0.44,Val Loss 0.84,Val Acc:39.06%,Time:0:04:32 *
+Iter:    20,Train Loss 0.77,Train Acc   0.5,Val Loss 0.84,Val Acc:35.94%,Time:0:06:03 
+1/2
+Iter:     0,Train Loss 0.93,Train Acc  0.33,Val Loss  1.0,Val Acc:26.56%,Time:0:00:19 *
+Iter:     5,Train Loss 0.86,Train Acc   0.3,Val Loss 0.89,Val Acc:28.12%,Time:0:01:39 *
+Iter:    10,Train Loss  0.8,Train Acc   0.5,Val Loss 0.86,Val Acc:34.38%,Time:0:02:56 *
+Iter:    15,Train Loss  0.8,Train Acc  0.38,Val Loss 0.86,Val Acc:31.25%,Time:0:04:20 
+Iter:    20,Train Loss 0.78,Train Acc  0.47,Val Loss 0.85,Val Acc:34.38%,Time:0:05:49 
+。。。。。。
+1/32
+Iter:     0,Train Loss  0.9,Train Acc  0.28,Val Loss  0.9,Val Acc:23.44%,Time:0:00:20 *
+Iter:     5,Train Loss  0.8,Train Acc  0.47,Val Loss 0.83,Val Acc:45.31%,Time:0:01:50 *
+Iter:    10,Train Loss 0.69,Train Acc  0.61,Val Loss 0.76,Val Acc:51.56%,Time:0:03:15 *
+Iter:    15,Train Loss 0.69,Train Acc  0.58,Val Loss 0.71,Val Acc:54.69%,Time:0:04:41 *
+1/64
+Iter:     0,Train Loss 0.96,Train Acc  0.23,Val Loss 0.95,Val Acc:29.69%,Time:0:00:18 *
+Iter:     5,Train Loss 0.83,Train Acc  0.42,Val Loss 0.86,Val Acc:42.19%,Time:0:01:49 *
+Iter:    10,Train Loss 0.78,Train Acc  0.45,Val Loss 0.78,Val Acc:54.69%,Time:0:03:20 *
+Iter:    15,Train Loss 0.73,Train Acc  0.53,Val Loss 0.75,Val Acc:51.56%,Time:0:04:53 
+1/128
+Iter:     0,Train Loss 0.93,Train Acc  0.28,Val Loss 0.91,Val Acc:28.12%,Time:0:00:16 *
+Iter:     5,Train Loss 0.86,Train Acc  0.28,Val Loss 0.86,Val Acc:37.50%,Time:0:01:35 *
+Iter:    10,Train Loss 0.78,Train Acc  0.53,Val Loss 0.85,Val Acc:42.19%,Time:0:03:05 *
+Iter:    15,Train Loss  0.8,Train Acc  0.44,Val Loss 0.79,Val Acc:45.31%,Time:0:04:36 *
